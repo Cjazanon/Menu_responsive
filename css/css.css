@@ -53,7 +53,8 @@ height: 60px;
   display: block;
 }
 .mas:hover{
-box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 15px rgb(72, 198, 239, 0.5);
+
 }
 .botones4 a{
   text-decoration: none;
@@ -68,6 +69,6 @@ box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
   padding-bottom: 20px;
 }
 .botones4 a li:hover{
-  box-shadow: 0 4px 15px rgb(72, 198, 239, 0.5);
+box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
 
 }
